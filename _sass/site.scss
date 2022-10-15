@@ -1,0 +1,17 @@
+$color-font: black;
+$color-background: #15120f;
+
+body {
+  background: $color-background;
+  text-align: center;
+  color: $color-background;
+}
+.logo {
+  max-width: 400;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+#main {
+  position: relative;
+  top: 0px;
+}
