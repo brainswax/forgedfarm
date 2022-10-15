@@ -1,0 +1,26 @@
+{
+  "name": "forgedfarm",
+  "version": "1.0.0",
+  "description": "forgedfarm.com",
+  "author": "brainswax",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainswax/forgedfarm.git"
+  },
+  "author": "brainswax",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/brainswax/forgedfarm/issues"
+  },
+  "homepage": "https://github.com/brainswax/forgedfarm#readme",
+  "dependencies": {
+    "htmllint": "^0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-htmllint": "^0.3.0"
+  }
+}
