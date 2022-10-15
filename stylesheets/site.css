@@ -1,17 +1,18 @@
-$color-font: black;
-$color-background: black;
-
 body {
-  background: $color-background;
+  background: black;
   text-align: center;
-  color: $color-background;
+  color: black;
 }
+
 .logo {
   max-width: 400;
   margin-top: 50px;
   margin-left: 20px;
 }
+
 #main {
   position: relative;
   top: 0px;
 }
+
+/*# sourceMappingURL=site.css.map */
